@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1574791112 source:c:\users\hp\desktop\akwb17\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1574806221 source:c:\users\hp\desktop\dzia£a\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
